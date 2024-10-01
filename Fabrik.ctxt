@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Fabrik
+comment1.params=
+comment1.target=Fabrik()
+comment2.params=sDoors\ pDoors
+comment2.target=void\ bestellungAufgeben(int,\ int)
+comment3.params=
+comment3.target=void\ bestellungAusgeben()
+comment4.params=index
+comment4.target=Bestellung\ gibBestellung(int)
+comment5.params=
+comment5.target=int\ gibAnzahlAllerBestellungen()
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Bestellung
+comment1.params=anzahlStandardTueren\ anzahlPremiumTueren\ bestellnummer
+comment1.target=Bestellung(int,\ int,\ int)
+comment2.params=
+comment2.target=java.util.List\ getProdukte()
+comment3.params=
+comment3.target=void\ bestellungBestaetigen()
+comment4.params=beschaffungszeit
+comment4.target=void\ setBeschaffungsZeit(int)
+comment5.params=
+comment5.target=boolean\ istBestellungBestaetigt()
+comment6.params=
+comment6.target=int\ getBeschaffungszeit()
+comment7.params=
+comment7.target=int\ getBestellnummer()
+comment8.params=
+comment8.target=int\ getAnzahlStandardTueren()
+comment9.params=
+comment9.target=int\ getAnzahlPremiumTueren()
+numComments=10
